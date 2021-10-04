@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GraustufenFilter
+comment1.params=name
+comment1.target=GraustufenFilter(java.lang.String)
+comment2.params=bild
+comment2.target=void\ anwenden(Farbbild)
+numComments=3

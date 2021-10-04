@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Farbbild
+comment0.text=\r\n\ Farbbild\ ist\ eine\ Klasse,\ die\ Farbbilder\ mit\ einer\ bequemen\r\n\ Schnittstelle\ definiert.\r\n\ \r\n\ @author\ \ Michael\ K\u00F6lling\ und\ David\ J.\ Barnes\r\n\ @version\ 1.0\r\n
+comment1.params=image
+comment1.target=Farbbild(java.awt.image.BufferedImage)
+comment1.text=\r\n\ Erzeuge\ ein\ Farbbild\ als\ Kopie\ von\ einem\ BufferedImage.\r\n\ @param\ image\ das\ zu\ kopierende\ BufferedImage.\r\n
+comment2.params=breite\ hoehe
+comment2.target=Farbbild(int,\ int)
+comment2.text=\r\n\ Erzeuge\ ein\ Farbbild\ mit\ der\ angegebenen\ Gr\u00F6\u00DFe\ mit\r\n\ undefiniertem\ Inhalt.\r\n\ @param\ breite\ die\ Breite\ des\ Bildes.\r\n\ @param\ hoehe\ die\ Hoehe\ des\ Bildes.\r\n
+comment3.params=x\ y\ col
+comment3.target=void\ setzePunktfarbe(int,\ int,\ java.awt.Color)
+comment3.text=\r\n\ Setze\ den\ angegebenen\ Bildpunkt\ dieses\ Bildes\ auf\ die\r\n\ angegebene\ Farbe.\r\n\ @param\ x\ die\ x-Koordinate\ des\ Bildpunktes.\r\n\ @param\ y\ die\ y-Koordinate\ des\ Bildpunktes.\r\n\ @param\ col\ die\ Farbe\ des\ Bildpunktes.\r\n
+comment4.params=x\ y
+comment4.target=java.awt.Color\ gibPunktfarbe(int,\ int)
+comment4.text=\r\n\ Liefere\ die\ Farbe\ des\ angegebenen\ Bildpunktes.\r\n\ @param\ x\ die\ x-Koordinate\ des\ Bildpunktes.\r\n\ @param\ y\ die\ y-Koordinate\ des\ Bildpunktes.\r\n\ @return\ die\ Farbe\ des\ Bildpunktes\ an\ der\ angegebenen\ Position.\r\n
+numComments=5

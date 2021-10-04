@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Filter
+comment1.params=name
+comment1.target=Filter(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ gibName()
+comment3.params=bild
+comment3.target=void\ anwenden(Farbbild)
+numComments=4
